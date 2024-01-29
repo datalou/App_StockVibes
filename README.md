@@ -17,8 +17,8 @@ This Flask-based app provides real-time insights into market sentiment, empoweri
 
 ### Prerequisites
 
-- Python (version X.X.X)
-- Flask (version X.X.X)
+- Python 
+- Flask 
 - Other dependencies...
 
 ### Installation
