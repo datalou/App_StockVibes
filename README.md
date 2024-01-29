@@ -30,23 +30,42 @@ This Flask-based app provides real-time insights into market sentiment, empoweri
    
 ### Usage
 
-The purpose of a stock sentiment analysis app built with Flask and machine learning could be multifaceted, catering to the needs of traders, investors, and financial enthusiasts. Here are some key purposes for such an app:
+1. **Accessing the App:**
 
-1) Real-Time Sentiment Monitoring:Provide users with real-time analysis of sentiments expressed in stock-related tweets on platforms like Twitter. This helps traders stay informed about the overall market sentiment surrounding specific stocks.
+   Open your web browser and navigate after running the app.
 
-2) Decision Support for Trading:Offer valuable insights to traders for making informed decisions. By understanding the sentiment trends, traders can potentially anticipate market movements and adjust their strategies accordingly.
+2. **Real-Time Sentiment Analysis:**
 
-3) Enhanced Market Intelligence: Serve as a tool for enhancing market intelligence. By aggregating and analyzing sentiment data from social media, the app can offer users a broader perspective on market sentiment beyond traditional financial news.
+   - Enter the stock-related tweets or keywords you want to analyze in the input field.
+   - Click on the "Analyze Sentiment" button to receive real-time sentiment insights.
 
-4) User-Friendly Interface: Create a user-friendly interface that simplifies the process of interpreting sentiment analysis results. This allows both novice and experienced traders to easily grasp the sentiment trends associated with specific stocks.
 
-5) Historical Sentiment Analysis: Enable users to explore historical sentiment trends for specific stocks. This can help in identifying patterns and understanding how sentiment has influenced stock performance in the past.
+3. **Historical Sentiment Analysis:**
 
-6)Community Engagement:Foster a community by allowing users to discuss sentiment trends, share insights, and collaborate on trading strategies. This social aspect can provide additional perspectives and collective intelligence.
+   - Explore historical sentiment trends for specific stocks by navigating to the "Historical Analysis" section.
+   - Input the desired stock symbol and date range to visualize sentiment changes over time.
 
-7) Integration with Trading Platforms:Integrate the app with popular trading platforms, allowing users to seamlessly incorporate sentiment analysis into their existing trading workflows.
 
-8) Continuous Improvement and Feedback: Establish a feedback loop where user interactions and feedback contribute to continuous improvement. This ensures that the app evolves to meet the changing needs of its user base.
+4. **Customizable Alerts:**
+
+   - Set up customizable alerts based on sentiment thresholds to receive notifications when sentiment significantly shifts.
+   - Access the "Alerts" section and configure your alert preferences.
+
+   
+5. **Integration with Trading Platforms:**
+
+   - Connect StockVibes with your preferred trading platforms to seamlessly incorporate sentiment analysis into your trading workflow.
+   - Follow the integration guide provided in the "Integration" section.
+
+6. **Analyzing Results:**
+
+   - Interpret the sentiment analysis results displayed on the dashboard.
+   - Utilize the visualizations and insights to inform your trading decisions.
+
+7. **Join the Community:**
+
+   - Engage with other users in the community section.
+   - Discuss sentiment trends, share insights, and collaborate on trading strategies.
 
 
 ### Contributing
