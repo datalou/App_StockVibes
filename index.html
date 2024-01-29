@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Análisis de Sentimiento en Tweets Financieros</title>
+</head>
+<body>
+    <h1>Análisis de Sentimiento en Tweets Financieros</h1>
+    <form action="{{ url_for('main.analizar_sentimiento') }}" method="post">
+        <label for="texto">Ingrese el texto del tweet:</label>
+        <textarea name="texto" rows="4" required></textarea>
+        <br>
+        <button type="submit">Analizar Sentimiento</button>
+    </form>
+</body>
+</html>
+
+
